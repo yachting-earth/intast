@@ -74,7 +74,7 @@ var store = [{
     "title": "Sidan kunde inte hittas",
     "excerpt":"Sidan du försöker hitta finns inte eller så har vi helt enkelt slarvat bort den.       ","url": "http://intast.se/404.html"
   },{
-    "title": "Inlägg sorterat per år",
+    "title": "Nyheter sorterat per år",
     "excerpt":" ","url": "http://intast.se/nyheter/"
   },{
     "title": "Inlägg sorterat på kategori",
