@@ -5634,4 +5634,68 @@ acronym.no-reformat[title]:after {
   }
 }
 
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  /* 2 columns on desktop */
+  gap: 20px;
+  /* Spacing between items */
+  grid-auto-rows: 1fr;
+  /* Rows take equal space */
+  overflow: auto;
+  /* Add scrollbars if content overflows */
+}
+
+.product-grid a {
+  text-decoration: none;
+  /* Remove underline */
+  color: inherit;
+  /* Inherit the text color from the parent element */
+}
+
+.product-grid a:hover, .product-grid a:focus {
+  text-decoration: none;
+  /* Ensure underline stays removed on hover/focus */
+  color: inherit;
+  /* Prevent color change on hover/focus */
+}
+
+.product-item {
+  height: 500px;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.product-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.product-title {
+  font-size: 1,2em;
+  font-weight: bold;
+  margin: 10px 0 5px;
+}
+
+.product-description {
+  text-align: left;
+  font-size: 0,5em;
+  color: #555;
+}
+
+@media (max-width: 768px) {
+  .product-grid {
+    grid-template-columns: 1fr;
+    /* Single column on mobile */
+    grid-auto-rows: auto;
+  }
+  .product-item {
+    /* height: auto; */
+  }
+}
+
 /*# sourceMappingURL=main.css.map */
