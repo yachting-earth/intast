@@ -21,21 +21,17 @@ salesbullets: Ultrasnabb motor på 5500 rpm, Extremt lätt, Variabel klipplängd
 
 
 ## Teknisk data
-- Batteritid: Upp till 2 timmar
-- Laddningstid: 90-120 minuter
-- Klippningslängd: 0,3 mm
-- Justerbar distanskam: 3-6 mm
-- Hastighet: 5500 rpm 
-- Mått LxBxH: 146 x 30 x 38 mm 
-- Vikt: 120 g
+- Tyst
+- Lite vibrationer
+- Lätt 120 g
+- Laddbar
+- 120 minuters klipptid
+
 
 ## Produktbeskrivning
-Style Mini är kraft, extrem precision och smidighet förpackat i ett litet skal. Med sin imponerande kombination av prestanda och lätthet kommer klipparen snart bli som en schweizisk kniv i din arsenal.
+Heiniger StyleMini är en liten, lätt och sladdlös trimmer som lämpar sig för detaljklippning av hundar och katter. Det är en superlätta trimmern med ergonomisk design som gör den smidig att använda. Skäret har snabb fäste för enkel rengöring. Det ingår en distanskam som är ljusterbar, rengöringsborste och skärolja.
 
-Ett högpresterande Li-Ion-batteri ligger i hjärtat av Style Mini och ger dig nästan 2 timmar av oavbruten extremt tyst klippning med minimala vibrationer! Style Mini med sin fjäderlätta vikt på endast 120 g gör den enkel och snabb att hantera vilket i sin tur gör klippningen till en bekväm upplevelse för både dig och djuret.
-
-Style Mini är mer än bara en klippare, den är ett partnerskap för precisionsklippning. Med en motor som är ännu kraftfullare än tidigare modeller, kommer du att uppleva en klippning som är snabb, exakt och smidig. Och med en justerbar distanskam 3-6mm kan du enkelt ändra klipplängden från 3 till 6 mm för att passa din stil.
-
-Denna klippare är perfekt för de finaste detaljerna. Med Style Mini kan du med extrem precision klippa din hunds tassar, ögon och svans utan att oroa dig. Den är din pålitliga följeslagare när det gäller att skapa den perfekta looken. Och när du är klar är det enkelt att rengöra klipphuvudet för nästa användning.
-
-Style Mini är ett kompakt kraftpaket som kommer att överträffa dina förväntningar. Maskinen levereras med laddstation, justerbar distanskam 3-6mm, skärolja och rengöringsborste.
+- Klipptid: Upp till 120 min.
+- Uppladdningstid: ca. 80 min.
+- Klippbredd: 30 mm
+- Klipplängd: 0,3 mm
