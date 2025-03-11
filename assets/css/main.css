@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* ==========================================================================
    Contrast skin
    ========================================================================== */
@@ -5649,7 +5650,8 @@ acronym.no-reformat[title]:after {
 }
 
 .product-item {
-  height: 500px;
+  height: 550px;
+  /* Eller din önskade höjd */
   text-align: center;
   padding: 10px;
   border: 1px solid #ddd;
@@ -5657,12 +5659,14 @@ acronym.no-reformat[title]:after {
   background-color: #f9f9f9;
   display: flex;
   flex-direction: column;
+  position: relative;
+  /* Lägg till position relative */
 }
 
 .product-item .show_more {
   margin-top: auto;
   font-weight: bold;
-  background-color: #f0f0f0;
+  background-color: #FF0100;
   border: 1px solid #ccc;
   padding: 10px 20px;
   border-radius: 5px;
@@ -5671,8 +5675,11 @@ acronym.no-reformat[title]:after {
   display: inline-block;
   text-align: center;
   text-decoration: none;
-  color: #333;
+  color: #ffffff;
   text-decoration: none;
+  width: 50%;
+  display: block;
+  margin: 0 auto;
 }
 
 .product-title {
@@ -5685,6 +5692,7 @@ acronym.no-reformat[title]:after {
   height: 300px;
   width: auto;
   margin: 0 auto;
+  padding-bottom: 20px;
 }
 
 .produkt-description {
@@ -5693,7 +5701,7 @@ acronym.no-reformat[title]:after {
 }
 
 .product-item .show_more:hover {
-  background-color: #e0e0e0;
+  background-color: #FF0100;
 }
 
 @media (max-width: 768px) {
