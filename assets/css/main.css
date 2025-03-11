@@ -5703,4 +5703,35 @@ acronym.no-reformat[title]:after {
   }
 }
 
+.archive__item {
+  display: flex;
+  flex-direction: column;
+  min-height: 650px;
+  /* Or your desired minimum height */
+  border: 0px solid #ddd;
+  /* Optional: Add a border for visual clarity */
+  padding: 20px;
+  /* Optional: Add padding for spacing */
+}
+
+.archive__item-teaser img {
+  height: 300px;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+  object-fit: cover;
+  /* Important: Ensures images fit correctly */
+}
+
+.archive__item-body {
+  height: 300px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.archive__item-body .btn--primary {
+  margin-top: auto;
+}
+
 /*# sourceMappingURL=main.css.map */
